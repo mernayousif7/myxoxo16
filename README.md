@@ -55,6 +55,5 @@ Full-stack web project for creating and viewing 2D molecule structures.
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/merna-yousif)  
-[GitHub](https://github.com/myxoxo16)  
+[LinkedIn](https://www.linkedin.com/in/merna-yousif)   
 Email: mernayousif7@gmail.com
